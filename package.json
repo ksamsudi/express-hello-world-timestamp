@@ -1,0 +1,20 @@
+{
+  "name": "express-hello-world-timestamp",
+  "version": "1.0.0",
+  "description": "Hello world app with express 4 with timestamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "hello-world",
+    "timestamp"
+  ],
+  "author": "Kamarudin Samsudin",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.0"
+  }
+}
